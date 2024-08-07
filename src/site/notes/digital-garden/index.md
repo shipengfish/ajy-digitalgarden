@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/index/","title":"Java Development | Trail Running | Reading","tags":["gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/index/","title":"Java Development | Trail Running | Reading","tags":["gardenEntry","gardenEntry"]}
 ---
 
 
 | 更新时间                      | 更新内容 |
 | ------------------------- | ---- |
-| 3:27 PM - August 07, 2024 | 初始化  |
+| 3:37 PM - August 07, 2024 | 初始化  |
 
 { .block-language-dataview}
 
