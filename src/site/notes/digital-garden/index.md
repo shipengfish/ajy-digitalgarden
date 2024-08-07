@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/index/","title":"Java Development | Trail Running | Reading","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/index/","title":"Java Development | Trail Running | Reading","tags":["gardenEntry","gardenEntry"]}
 ---
 
 
 | 更新时间                      | 更新内容 |
 | ------------------------- | ---- |
-| 3:41 PM - August 07, 2024 | 初始化  |
+| 3:48 PM - August 07, 2024 | 初始化  |
 
 { .block-language-dataview}
 
@@ -15,7 +15,7 @@
 
 <div class="hc"><div class="hc__left">
 
-**我是一名服务端开发人员，主要开发语言为 Java，除编程之外，平时也喜欢阅读和跑步，**查看更多 [[digital-garden/关于我\|关于我]]。
+**我是一名服务端开发人员，主要开发语言为 Java，除编程之外，平时也喜欢阅读和跑步，**查看更多 [[digital-garden/About Me\|About Me]]。
 
 > [!TIP] Currently seeking work
 > I'm currently seeking work as a JavaScript developer. Please check my [[Résumé\|Résumé]] and [[Contact Me\|Contact Me]] if you’re interested in working together.
