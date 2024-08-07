@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/index/","title":"Java Development | Trail Running | Reading","tags":["gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/index/","title":"Java Development | Trail Running | Reading","tags":["gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
