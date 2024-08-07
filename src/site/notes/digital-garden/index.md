@@ -3,16 +3,6 @@
 ---
 
 
-| 更新时间                      | 更新内容 |
-| ------------------------- | ---- |
-| 3:48 PM - August 07, 2024 | 初始化  |
-
-{ .block-language-dataview}
-
----
-{"dg-home":true,"dg-publish":true,"dg-show-inline-title":false,"dg-show-backlinks":false,"title":"JavaScript Development | Trail Running | Fastpacking","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
----
-
 <div class="hc"><div class="hc__left">
 
 **我是一名服务端开发人员，主要开发语言为 Java，除编程之外，平时也喜欢阅读和跑步，**查看更多 [[digital-garden/About Me\|About Me]]。
