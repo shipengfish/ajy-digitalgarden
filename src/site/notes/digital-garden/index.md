@@ -1,13 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/index/","title":"Java Development | Trail Running | Reading","tags":["gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/index/","title":"Java Development | Trail Running | Reading","tags":["gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
-
-| 更新时间                      | 更新内容 |
-| ------------------------- | ---- |
-| 3:19 PM - August 07, 2024 | 初始化  |
-
-{ .block-language-dataview}
 
 ---
 {"dg-home":true,"dg-publish":true,"dg-show-inline-title":false,"dg-show-backlinks":false,"title":"JavaScript Development | Trail Running | Fastpacking","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
